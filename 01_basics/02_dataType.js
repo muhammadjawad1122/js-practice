@@ -19,7 +19,7 @@ let isLoggedIn=false
 // undefined  --->value not assign
 // Symbol=unique
 
-console.log(typeof undefine);
-console.log(typeof null);
+console.log(typeof undefine); //undefine
+console.log(typeof null);  //object
 
 
